@@ -10,8 +10,8 @@ This project showcases a personalized Spotify playlist featuring a selection of 
 
 ## How to Use
 1. Clone the repository to your local machine:
-   ```bash
-  https://github.com/shamihsnn/spotify-playlist
+   git clone https://github.com/shamihsnn/spotify-playlist
+ 
 
    
 ### Summary
