@@ -10,10 +10,9 @@ This project showcases a personalized Spotify playlist featuring a selection of 
 
 ## How to Use
 1. Clone the repository to your local machine:
-   git clone https://github.com/shamihsnn/spotify-playlist
- 
+   ```bash
+   git clone https://github.com/shamihsnn/spotify-playlist.git
 
-   
 ### Summary
 
 - **HTML Structure**: The `index.html` file contains a header, main content area with embedded Spotify tracks, and a footer.
